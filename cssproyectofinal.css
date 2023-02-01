@@ -1,0 +1,37 @@
+body {
+    background-color: black
+}
+
+div {
+    background-color: white;
+    border: solid black;
+    padding: 12px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+fieldset {
+    margin-bottom: 12px;
+
+}
+
+legend {
+    background-color: rgb(49, 174, 223);
+    padding: 5px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+img{
+    border-radius: 50%;
+    margin-bottom: 12px;
+}
+
+h1{
+    color: black;
+    border-radius: 20px blue;
+    background-color: rgb(49, 174, 223);
+}
+p{
+    color: rgb(26, 26, 116);
+}
